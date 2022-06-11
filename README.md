@@ -5,12 +5,7 @@
 
 ## Dependências
 - JDK 16 ou superior;
-- Maven 3 ou superior;
-- SQLite (requisitado no `pom.xml`).
-
-## Instalação
-- Vá ao diretório do projeto e execute o comando: `mvn clean install`;
-- Se tudo der certo, o projeto será instalado em `target/`;
+- Maven 3 ou superior.
 
 ## Utilização Prática
 - Crie uma regra do tipo String para verificar se a expressão regular esta correta. Exemplo: "a[a]*b{1,2}", "a[a]+[b]+" e "(?:[ab]{4})+"
