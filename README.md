@@ -1,4 +1,4 @@
-# Atividade extra - Programação 3
+# Atividade extra - P3
 
 ## Utilizado
 - `java.util.regex.Pattern`, usado para verificar se as expressões regulares estão corretas.
