@@ -16,7 +16,7 @@
 - Crie uma regra do tipo String para verificar se a expressão regular esta correta. Exemplo: "a[a]*b{1,2}", "a[a]+[b]+" e "(?:[ab]{4})+"
 - Os sinais usados nos exemplos são comandos que podem ser achados nesse site: https://www.devmedia.com.br/iniciando-expressoes-regulares/6557
 - Depois de criar a String usar o comando Pattern.matches(Regra, String a ser verificada), que retorna boolean
-- Em caso da String estiver dentro daquela regra estiver correta vai retornar True e caso estiver errado ele vai retorna False
+- Em caso da String estiver na regra vai retornar True e caso não estiver ele vai retornar False
 
 ##Questões Utilizadas como exemplo
 - 1º) Começam com aa;
